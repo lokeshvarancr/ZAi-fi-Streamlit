@@ -1,1 +1,5 @@
 streamlit
+matplotlib==3.3.4
+pandas
+plotly
+requests
